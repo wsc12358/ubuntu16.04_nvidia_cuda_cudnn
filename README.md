@@ -1,0 +1,1 @@
+This is a comprehensive tutorial for configuring a deep learning environment in ubuntu
